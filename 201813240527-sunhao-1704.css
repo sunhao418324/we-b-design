@@ -1,0 +1,141 @@
+*{
+			padding: 0;
+			margin: 0;
+		}
+		a{text-decoration: none;}
+		body{
+			background-color: white;
+		}
+		.top-wrap{
+			width: 100%;
+			height: 40px;
+			background-color: #333;
+		}
+		.top{
+			width: 1200px;
+			margin: 0 auto;
+		}
+		.top .top-left{
+			float: left;
+			color: #fff;
+			font-size: 12px;
+			line-height: 40px;
+		}
+		.top .top-right{
+			float: right;
+		}
+		.top-right .com-eamail{
+			display: block;
+			float: left;
+			color: #fff;
+			font-size: 12px;
+			line-height: 40px;
+			
+		}
+		.top-right .lan{
+			float: left;
+			color: #fff;
+			font-size: 12px;
+			line-height: 40px;
+			margin-left: 20px;
+			
+		}
+		.top-right .top-search{
+			float: left;
+			width: 165px;
+			height: 18px;
+			margin-left: 20px;
+			margin-top: 12px;
+			
+		}
+		.top-search input{
+			display: block;
+			float: left;
+		    border: none;
+			width: 122px;
+			height: 100% ;
+			background-color: #4d4d4d;
+			font-size: 12px;
+			color: #fff;
+			padding-left: 10px;
+			
+		}
+		.top-search buttm{
+			display: block;
+			float: left;
+			height: 100%;
+			border: none;
+			background-color: #808080;
+			width: 32px;
+			
+		}
+		.top-search button img{
+			display: block;
+			width: 12px;
+			height: 15px;
+			margin: 0 auto;
+		}
+		.nav{
+			width: 1200px;
+			margin: 0 auto;
+			height: 80px;
+		}
+		.nav .logo{
+			float: left;
+			margin-top: 10px;
+		}
+		.nav .logo img{
+			display: block;
+			width: 142px;
+			height: 52px;
+		}
+		.nav-list{
+			float: left;
+			line-height: 80px;
+		}
+		.nav-list a{
+			color: #3177d6;
+			font-size: 18px;
+			margin-left: 80px;
+			padding: 8px 10px;
+			
+		}
+		.nav-list .act{
+			background-color: #3177d6;
+			color: #fff;
+		}
+		.order {
+		            height: 60px;
+		            line-height: 60px;
+		            text-align: center;
+		        }
+		.order .line {
+		            display: inline-block;
+		            width: 500px;
+		            border-top: 1px solid #ccc ;
+		        }
+		.order .txt {
+		            color: #686868;
+		            vertical-align: -4px;
+					font-size: 20px;
+		        }
+		.rank1-3{
+			margin-left: 240px;
+			font-family: 微软雅黑;
+			color: #ED0E0E;
+			font-size: 20px;
+		}
+		li{
+			margin-top: 10px;
+		}
+		span{color: #333333;}
+		.rank4-10{
+			margin-left: 240px;
+		}
+		.footer{
+			font-size: 14px;
+			text-align: center;
+			margin-top: 50px;}
+		.footer a{
+			color: #808080;
+		}
